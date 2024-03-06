@@ -1,0 +1,14 @@
+C:\-_ws\Aula 1\Exemplos\bin\Debug\net8.0\Exemplos.exe
+C:\-_ws\Aula 1\Exemplos\bin\Debug\net8.0\Exemplos.deps.json
+C:\-_ws\Aula 1\Exemplos\bin\Debug\net8.0\Exemplos.runtimeconfig.json
+C:\-_ws\Aula 1\Exemplos\bin\Debug\net8.0\Exemplos.dll
+C:\-_ws\Aula 1\Exemplos\bin\Debug\net8.0\Exemplos.pdb
+C:\-_ws\Aula 1\Exemplos\obj\Debug\net8.0\Exemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\-_ws\Aula 1\Exemplos\obj\Debug\net8.0\Exemplos.AssemblyInfoInputs.cache
+C:\-_ws\Aula 1\Exemplos\obj\Debug\net8.0\Exemplos.AssemblyInfo.cs
+C:\-_ws\Aula 1\Exemplos\obj\Debug\net8.0\Exemplos.csproj.CoreCompileInputs.cache
+C:\-_ws\Aula 1\Exemplos\obj\Debug\net8.0\Exemplos.dll
+C:\-_ws\Aula 1\Exemplos\obj\Debug\net8.0\refint\Exemplos.dll
+C:\-_ws\Aula 1\Exemplos\obj\Debug\net8.0\Exemplos.pdb
+C:\-_ws\Aula 1\Exemplos\obj\Debug\net8.0\Exemplos.genruntimeconfig.cache
+C:\-_ws\Aula 1\Exemplos\obj\Debug\net8.0\ref\Exemplos.dll
